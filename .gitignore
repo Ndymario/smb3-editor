@@ -43,3 +43,5 @@ cmake_install.cmake
 imgui.ini
 .DS_Store
 Makefile
+
+build/
